@@ -1,4 +1,4 @@
-![](https://gitwar.herokuapp.com/badge?username=m-sam-mohamadi)
+![](https://komarev.com/ghpvc/?username=m-sam-mohamadi&label=PROFILE+VIEWS)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-sam-mohamadi&layout=donut)](https://github.com/m-sam-mohamadi)
 
