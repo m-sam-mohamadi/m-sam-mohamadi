@@ -1,4 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-sam-mohamadi)](https://github.com/m-sam-mohamadi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-sam-mohamadi&layout=pie)](https://github.com/m-sam-mohamadi)
 
 <!--
 **m-sam-mohamadi/m-sam-mohamadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
