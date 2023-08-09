@@ -1,4 +1,4 @@
-[!https://github-readme-stats.vercel.app/api?username={m-sam-mohamadi}&theme=blue-green](https://github.com/m-sam-mohamadi)
+![](https://gitwar.herokuapp.com/badge?username=m-sam-mohamadi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-sam-mohamadi&layout=donut)](https://github.com/m-sam-mohamadi)
 
 <!--
