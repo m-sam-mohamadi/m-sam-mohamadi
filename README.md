@@ -28,4 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-sam-mohamadi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="m-sam-mohamadi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-sam-mohamadi&show_icons=true&locale=en" alt="m-sam-mohamadi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-sam-mohamadi&show_icons=true&locale=en&theme=tokyonight" alt="m-sam-mohamadi" /></p>
