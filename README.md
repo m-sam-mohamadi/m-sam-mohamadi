@@ -1,4 +1,4 @@
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+![](https://gitwar.herokuapp.com/badge?username=m-sam-mohamadi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-sam-mohamadi&layout=donut)](https://github.com/m-sam-mohamadi)
 
