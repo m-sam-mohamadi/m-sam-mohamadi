@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=m-sam-mohamadi&label=PROFILE+VIEWS)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-sam-mohamadi&layout=donut)](https://github.com/m-sam-mohamadi)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=m-sam-mohamadi)](https://github.com/m-sam-mohamadi)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-sam-mohamadi&show_icons=true&theme=radical)
 
 
 
