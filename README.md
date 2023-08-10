@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- I'm Frontend Developer :]
+  
 - 🌱 I’m currently learning **python and AI**
 
-- 👨‍💻 All of my projects are available at [samthegeek.ir](samthegeek.ir)
+-  All of my projects are available at [samthegeek.ir](samthegeek.ir)
 
-- 💬 Ask me about **vue**
+- 💬 Ask me about **any thing**
 
 - 📫 How to reach me **mdotsam24@gmail.com**
 
